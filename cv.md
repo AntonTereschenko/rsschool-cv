@@ -7,6 +7,9 @@
 ### How to reach me: 
 - tereschenkoantony@gmail.com
 
+### Country
+- RB
+
 ### Age
 - 26 y.o.
 
