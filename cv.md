@@ -12,6 +12,7 @@
 
 ### Status
 - learning JS/FE
+- Working at the Inspector on Goverment Company
 
 ### Skills on IT
 - not have
